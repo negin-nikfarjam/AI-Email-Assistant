@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+app_backup.py
+app_before_fix.py
+app_duplicate_backup.py
